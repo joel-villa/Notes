@@ -1,4 +1,4 @@
 # Faculty Search Committee Notes
 
-TODO: link
-
+[[/Faculty_Search/workshop|Workshop Notes]]
+[[/Faculty_Search/Int_Qs|Interview Questions]]
