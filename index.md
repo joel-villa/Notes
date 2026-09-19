@@ -8,4 +8,7 @@
 
 [[Beaver|Beaver Triples]]
 
+## Personal Studies
+
+[[unix|UNIX (Linux) Notes]]
 
