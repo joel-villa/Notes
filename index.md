@@ -6,6 +6,7 @@
 
 ## Research
 
+[[easley|Easley Notes]]
 [[Beaver|Beaver Triples]]
 
 ## Personal Studies
